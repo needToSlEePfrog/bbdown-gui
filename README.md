@@ -53,8 +53,8 @@ python bbdown_gui.py
 ```
 bbdown-gui/
 ├── bbdown_gui.py    # Main application (single file)
-├── README.md        # 中文说明
-├── README_EN.md     # This file
+├── README_CN.md        # 中文说明
+├── README.md     # This file
 └── LICENSE          # MIT License
 ```
 
